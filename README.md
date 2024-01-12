@@ -1,0 +1,1 @@
+This is my portfolio website built using html and tailwindcss. I went for a minimilistic approach, with less animations and a very simple color palette, but at the same time keeping the website from being too boring and bland. 
